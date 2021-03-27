@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.lorem-text {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 20px;
+  align-items: flex-start;
+  justify-content: center;
+}
